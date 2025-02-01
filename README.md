@@ -1,5 +1,6 @@
 fornt end Portfolio project
-Oasis Infobyte Internship Project
+OPTIFYX TECHNOLOGY
+ Internship Project
 
 project name: Personal Portfolio Website
 
